@@ -15,3 +15,6 @@ function to predict the quality of red wine, given its physical attributes - rat
 
 
 ![Screenshot 2024-05-09 at 9 18 44 PM](https://github.com/AbhinavGupta2002/RedWineClassifier/assets/79180704/623b0e33-60f2-49f2-8985-3f08b8000820)
+
+
+**NOTE:** Dataset was downloaded from the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/267/banknote+authentication).
