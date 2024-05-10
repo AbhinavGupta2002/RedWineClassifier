@@ -7,7 +7,7 @@ function to predict the quality of red wine, given its physical attributes - rat
 
 3. 4 complete layers were built in the neural network. Each layer had 8, 8, 4, and 1 nodes respectively. Each layer had the ReLU(), ReLU(), Sigmoid(), and Identity() activation function respectively.
 
-4. Average of the mean absolute error (MAE): **0.7**. This means it is highly accurate (only 0.7 away from the true rating of a 0 to 10 scale)
+4. Average of the mean absolute error (MAE): **0.6907**. This means it is highly accurate (only ~0.7 away from the true rating of a 0 to 10 scale)
 
 5. Standard Deviation of the MAE: **0.033**.
 
