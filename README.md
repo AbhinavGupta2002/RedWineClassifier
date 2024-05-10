@@ -13,4 +13,5 @@ function to predict the quality of red wine, given its physical attributes - rat
 
 6. Below is a plot generated with **Python** and **Matplotlib** where the x-axis is the epoch number and the y-axis is the average training loss across all experiments for the current epoch.
 
+
 ![Screenshot 2024-05-09 at 9 18 44 PM](https://github.com/AbhinavGupta2002/RedWineClassifier/assets/79180704/623b0e33-60f2-49f2-8985-3f08b8000820)
