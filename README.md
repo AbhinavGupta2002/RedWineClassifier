@@ -1,6 +1,6 @@
 # Red Wine Classifier
 
-1. Built a **non-linear feedforward deep neural network** with Sigmoid and ReLU activation functions and the Mean Squared Error loss
+1. Built a **non-linear feedforward deep neural network** with Sigmoid, ReLU, and Identity activation functions and the Mean Squared Error loss
 function to predict the quality of red wine, given its physical attributes - rating can be a decimal from 0 to 10.
 
 2. Trained the model for 500 epochs with 5-fold cross validation on a wine quality dataset using the backpropogation algorithm in batched gradient descent using **Python** with **NumPy**, **Matplotlib**, and **SkLearn** libraries.
